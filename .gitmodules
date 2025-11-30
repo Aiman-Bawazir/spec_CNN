@@ -1,0 +1,15 @@
+[submodule "SpeCNN_v2"]
+	path = SpeCNN_v2
+	url = https://github.com/Aiman-Bawazir/SpeCNN_v2.git
+[submodule "SpecCNN_v1_base"]
+	path = SpecCNN_v1_base
+	url = https://github.com/Aiman-Bawazir/SpecCNN_v1_base.git
+[submodule "SpecCNN_v3"]
+	path = SpecCNN_v3
+	url = https://github.com/Aiman-Bawazir/SpecCNN_v3.git
+[submodule "SpecCNN_v4"]
+	path = SpecCNN_v4
+	url = https://github.com/Aiman-Bawazir/SpecCNN_v4.git
+[submodule "SpecCNN_v5_parallel_reg"]
+	path = SpecCNN_v5_parallel_reg
+	url = https://github.com/Aiman-Bawazir/SpecCNN_v5_parallel_reg.git
